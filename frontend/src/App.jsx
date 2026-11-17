@@ -66,7 +66,7 @@ function App() {
       <main className="conteudo">
 
         <section className="card">
-          <h2>Status da API</h2>
+          <h2>Status da API com TAG</h2>
 
           <p>
             Back-end: {statusApi?.status || "Indisponível"}
