@@ -67,6 +67,8 @@ function App() {
 
         <section className="card">
           <h2>Status da API com TAG</h2>
+          <h2>Gabriel Sanches Martins</h2>
+          <h2>4° DSM 2026</h2>
 
           <p>
             Back-end: {statusApi?.status || "Indisponível"}
