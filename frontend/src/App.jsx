@@ -61,6 +61,8 @@ function App() {
       <header className="cabecalho">
         <h1>VIO WEB</h1>
         <p>Venda de Ingressos Online</p>
+        <p>Desenvolvido por: Gabriel Sanches Martins</p>
+        <p>Turma: 4° DSM 2026</p>
       </header>
 
       <main className="conteudo">
